@@ -49,6 +49,10 @@ body{
     border-style: solid;
 }
 
+p a{
+    color: red;
+}
+
 ol{
     list-style-type: decimal-leading-zero;
     padding-left: 20px;
