@@ -52,22 +52,25 @@ body{
 p a:link{
     color: red;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
 }
+
 p a:visited{
     color: red;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
 }
+
 p a:link{
     color: red;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
 }
+
 p a:link{
     color: red;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 ol{
