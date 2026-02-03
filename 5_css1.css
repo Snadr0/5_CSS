@@ -1,0 +1,82 @@
+h1{
+    font-family: 'Arial', Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+h2{
+    font-family: 'Arial', Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h3{
+    font-family: 'Arial', Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+body{
+    background: lightblue;
+}
+
+#paragraph2{
+    background: white;
+    border-color: green;
+    border-width: 4px;
+    border-style: solid;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 40px;
+    margin-right: 650px;
+    line-height: 1.5em;
+}
+
+.blue{
+    background: darkblue;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+}
+
+ol{
+    list-style-type: decimal-leading-zero;
+    padding-left: 20px;
+    line-height: 1.5em;
+
+}
+
+table {
+    width: 45%;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    padding: 9px;
+}
+
+th {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+}
+
+td {
+    background-color: white;
+    color: black;
+}
