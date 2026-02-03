@@ -49,7 +49,7 @@ body{
     border-style: solid;
 }
 
-p a{
+p a:link{
     color: red;
 }
 
