@@ -51,6 +51,23 @@ body{
 
 p a:link{
     color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+p a:visited{
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+p a:link{
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+p a:link{
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
 }
 
 ol{
